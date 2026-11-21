@@ -60,7 +60,8 @@ The model uses the following input features:
 - Credit History
 
 ## 🖥️ Application
-<img width="1882" height="893" alt="Screenshot 2026-11-05 100007" src="https://github.com/user-attachments/assets/24bf4406-59e5-4dbd-a68a-0573b7ea3764" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-21 130318" src="https://github.com/user-attachments/assets/8d741bbb-df73-430f-bb39-83240ef638c2" />
+
 
 The Streamlit application allows users to:
 
@@ -121,7 +122,6 @@ python -m streamlit run streamlitapp.py
 The application will open in your browser.
 
 ## 📈 Results
-<img width="1808" height="814" alt="Screenshot 2026-11-05 100045" src="https://github.com/user-attachments/assets/044bde9a-454c-44a1-af14-84a7a2dea0f0" />
 
 
 Logistic Regression and SVM achieved the highest accuracy of 85.5%, while KNN achieved 82.3%.
